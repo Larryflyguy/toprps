@@ -8,7 +8,7 @@ function game() {
 
 function playRound() {
     const playerSelection =
-    const computerSelection = computerChoice();
+    computerSelection = computerChoice();
 
 }
 
