@@ -39,4 +39,4 @@ function validateInput(choice) {
         return false;
         }
     }
-}
+
